@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d9631f0-198c-43ec-a7f7-c01151d96361" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="my_first_robot" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YhTR4XNfZCFQC5XzqIMyy76H1H" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="full.screen.before.presentation.mode" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.t4">
+    <configuration name="t1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="my_first_robot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/t1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="t2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="my_first_robot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/t2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="t3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="my_first_robot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/t3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="t4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="my_first_robot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/t4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.t4" />
+        <item itemvalue="Python.t3" />
+        <item itemvalue="Python.t2" />
+        <item itemvalue="Python.t1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d9631f0-198c-43ec-a7f7-c01151d96361" name="Default Changelist" comment="" />
+      <created>1583393815063</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583393815063</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2160" height="397" key="GridCell.Tab.0.bottom" timestamp="1583544353821">
+      <screen x="0" y="41" width="2160" height="1399" />
+    </state>
+    <state width="2160" height="406" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1583544395993">
+      <screen x="0" y="41" width="2160" height="1399" />
+    </state>
+    <state width="2160" height="406" key="GridCell.Tab.0.bottom.inPresentationMode/0.41.2160.1399@0.41.2160.1399" timestamp="1583544395993" />
+    <state width="2160" height="397" key="GridCell.Tab.0.bottom/0.41.2160.1399@0.41.2160.1399" timestamp="1583544353821" />
+    <state width="2160" height="397" key="GridCell.Tab.0.center" timestamp="1583544353817">
+      <screen x="0" y="41" width="2160" height="1399" />
+    </state>
+    <state width="2160" height="406" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1583544395992">
+      <screen x="0" y="41" width="2160" height="1399" />
+    </state>
+    <state width="2160" height="406" key="GridCell.Tab.0.center.inPresentationMode/0.41.2160.1399@0.41.2160.1399" timestamp="1583544395992" />
+    <state width="2160" height="397" key="GridCell.Tab.0.center/0.41.2160.1399@0.41.2160.1399" timestamp="1583544353817" />
+    <state width="2160" height="397" key="GridCell.Tab.0.left" timestamp="1583544353815">
+      <screen x="0" y="41" width="2160" height="1399" />
+    </state>
+    <state width="2160" height="406" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1583544395992">
+      <screen x="0" y="41" width="2160" height="1399" />
+    </state>
+    <state width="2160" height="406" key="GridCell.Tab.0.left.inPresentationMode/0.41.2160.1399@0.41.2160.1399" timestamp="1583544395992" />
+    <state width="2160" height="397" key="GridCell.Tab.0.left/0.41.2160.1399@0.41.2160.1399" timestamp="1583544353815" />
+    <state width="2160" height="397" key="GridCell.Tab.0.right" timestamp="1583544353819">
+      <screen x="0" y="41" width="2160" height="1399" />
+    </state>
+    <state width="2160" height="406" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1583544395993">
+      <screen x="0" y="41" width="2160" height="1399" />
+    </state>
+    <state width="2160" height="406" key="GridCell.Tab.0.right.inPresentationMode/0.41.2160.1399@0.41.2160.1399" timestamp="1583544395993" />
+    <state width="2160" height="397" key="GridCell.Tab.0.right/0.41.2160.1399@0.41.2160.1399" timestamp="1583544353819" />
+    <state x="568" y="490" key="com.intellij.ide.util.TipDialog" timestamp="1584019218976">
+      <screen x="0" y="41" width="2160" height="1399" />
+    </state>
+    <state x="568" y="490" key="com.intellij.ide.util.TipDialog/0.41.2160.1399@0.41.2160.1399" timestamp="1584019218976" />
+    <state x="1113" y="39" width="1009" height="1470" key="search.everywhere.popup" timestamp="1583460161144">
+      <screen x="0" y="41" width="2160" height="1399" />
+    </state>
+    <state x="1113" y="39" width="1009" height="1470" key="search.everywhere.popup/0.41.2160.1399@0.41.2160.1399" timestamp="1583460161144" />
+  </component>
+</project>
